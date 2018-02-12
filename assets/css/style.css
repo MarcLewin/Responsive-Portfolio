@@ -326,6 +326,48 @@ h3{
         height: 200px;
         width: 250px;
     }
+
+    /* portfolio page responsive */
+    .portfolio{
+        border: 1px #dddddd;
+        background: #ffffff;
+        width: 250px;
+        height: 1200px;
+    }
+
+    .philapic{ 
+        position: absolute;
+        left: 0px;
+        
+        
+    }
+
+    .rpg{
+        position: absolute;
+        left: 220px;
+        top: 250px;
+        
+       
+    }
+
+    .triviagame{
+        position: absolute;
+        top: 250px;
+    }
+    
+    .rutgers-info-widget{
+        position: absolute;
+        top: 450px;
+        left: 220px;
+    }
+    .rock-paper-scissors{
+        position: absolute;
+        top: 480px;
+       
+    }
+
+
+    
 }
 
 @media screen and (max-width: 768px) {
