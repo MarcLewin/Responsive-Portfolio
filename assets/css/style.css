@@ -397,11 +397,13 @@ h3{
     
     }
     #paragraph{
-        margin-bottom:200px;
+        margin-bottom:600px;
+    
+        
     }
     .about{
         height: 600px;
-        margin-bottom: 200px;
+        width:600px;
         
     }
 
@@ -499,6 +501,13 @@ h3{
         margin-right: 60px;
     }
 
+    .about{
+        width:450px;
+        
+    }
+    #paragraph{
+        margin-top:300px;
+    }
 /* portfolio page responsive 640  */
 
 .portfolio{
@@ -584,7 +593,7 @@ h3{
     top: 290px;
 }
 
-.connect{ 
+.con{ 
     float: left;
     width: 80%;
     height: 200px;
