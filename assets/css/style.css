@@ -398,15 +398,11 @@ h3{
     }
     #paragraph{
         margin-bottom:200px;
-        clear: both;
-        
-       
-
-        
     }
     .about{
         height: 600px;
         margin-bottom: 200px;
+        
     }
 
     #contact{ 
@@ -503,7 +499,8 @@ h3{
         margin-right: 60px;
     }
 
-/* portfolio page responsive 640 */
+/* portfolio page responsive 640  */
+
 .portfolio{
     border: 1px #dddddd;
     background: #ffffff;
